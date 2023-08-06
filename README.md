@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">
-Hi there, I'm <a href="https://www.robmason.tech/" target="_blank" rel="noreferrer">Rob</a> 👋
-</h3> 
 
-## 🔭 I'm currently working on
+### Hi there, I'm <a href="https://www.robmason.tech/" target="_blank" rel="noreferrer">Rob</a> 👋 </h3>
+
+
+#### 🔭 I'm currently working on
 - Nix-OS configurations for reproducible systems
 - Python Data Visualization, Analysis, and Manipulation
 - DevOps involving git/GitHub and AWS
 
-## 🌱 I'm currently learning
+#### 🌱 I'm currently learning
 - Cisco Networking
 - Python
