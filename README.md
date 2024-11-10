@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm <a href="https://www.robmason.tech/" target="_blank" rel="noreferrer">Rob</a> 👋 </h3>
+### Hi there, I'm <a href="https://robmason.tech/" target="_blank" rel="noreferrer">Rob</a> 👋 </h3>
 
 
 #### 🔭 I'm currently working on
