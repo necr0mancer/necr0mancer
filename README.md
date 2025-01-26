@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 
 #### 🔭 I'm currently working on
-- Nix-OS configurations for reproducible systems
+- Nix-OS configurations for reproducible and immutable systems
 - Python Data Visualization, Analysis, and Manipulation
 - DevOps involving git/GitHub and AWS
 
 #### 🌱 I'm currently learning
 - Cisco Networking
-- Python
+- Go
 - FortiGate/FortiManager
+- Ceph and software-defined storage systems
